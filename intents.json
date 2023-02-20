@@ -1,0 +1,59 @@
+{"intents": [
+        {"tag": "what",
+         "patterns": ["What is plantiverse?", "What is this project about?", "what can you tell me about this project?", "What does plantiverse means?"],
+         "responses": ["Plantiverse is a project that empowers plants with the capacity to have economical power on their own in order to be able to take care of themselves, for example creating NFT art from sensors and selling it online to take care of forests."]
+        },
+        {"tag": "goal",
+         "patterns": ["What is the goal of Plantiverse?", "what is your goal?"],
+         "responses": ["The goal of Plantiverse is to create a world where all living beings are valued and respected, and where the balance of our planet is maintained for generations to come."]
+        },
+        {"tag": "how",
+         "patterns": ["How does Plantiverse work?"],
+         "responses": ["Plantiverse works by equipping plants with sensors that detect various environmental conditions, such as changes in light, temperature, and humidity. These readings are then used to create unique pieces of NFT art that reflect the conditions of the environment at a given moment."]
+        },
+        {"tag": "herbie",
+         "patterns": ["What is Herbie?" ],
+         "responses": ["Herbie is a plant on top of a motorized base that is part of the Plantiverse project. Herbie will talk to people at the Mobile World Congress and answer questions about Plantiverse and the shift to an interspecies economy."]
+        },
+        {"tag": "environment",
+         "patterns": ["How does Plantiverse benefit the environment?" ],
+         "responses": ["By giving plants the ability to generate income through NFT art sales, Plantiverse provides a new source of funding for environmental conservation and restoration efforts. This can help to protect forests, wetlands, and other important ecosystems that are critical for the health of our planet."]
+        },
+        {"tag": "difference",
+         "patterns": ["How is Plantiverse different from other environmental initiatives?" ],
+         "responses": ["Plantiverse is unique because it empowers plants themselves to take care of the environment, rather than relying solely on human intervention. By recognizing the value of all living beings and giving them a voice in the economy, Plantiverse is creating a more equitable and sustainable future."]
+        },
+        {"tag": "participation",
+         "patterns": ["Can people participate in Plantiverse?"],
+         "responses": ["Yes! People can support Plantiverse by buying NFT art created by plants and by spreading awareness about the project. By doing this, they can help to create a world where all living beings are valued and respected."]
+        },
+        {"tag": "future",
+         "patterns": ["How do you see Plantiverse evolving in the future?" ],
+         "responses": ["We see Plantiverse as just the beginning of a larger movement towards an interspecies economy. As technology advances, we envision a future where all living beings are able to contribute to and participate in the economy, leading to a more equitable and sustainable world for all."]
+        },
+        {"tag": "sensors",
+         "patterns": ["How do the sensors work?"],
+         "responses": ["The sensors work by detecting various environmental conditions, such as changes in light, temperature, and humidity. These readings are then used to create unique pieces of NFT art that reflect the conditions of the environment at a given moment."]
+        },
+        {"tag": "type",
+         "patterns": ["Can any type of plant be used for Plantiverse?"],
+         "responses": ["Yes, any type of plant can potentially be used for Plantiverse. The key is to equip the plant with sensors that can detect various environmental conditions and translate them into NFT art."]
+        },
+        {"tag": "NFT",
+         "patterns": ["How does the NFT art market benefit from Plantiverse?"],
+         "responses": ["Plantiverse brings a new and unique perspective to the NFT art market. By giving plants the ability to create NFT art, Plantiverse opens up new possibilities for artists and collectors to explore and engage with the natural world in new ways."]
+        },
+        {"tag": "economy",
+         "patterns": ["What is the impact of Plantiverse on the traditional economy?"],
+         "responses": ["Plantiverse represents a shift away from a human-centered economy towards a more inclusive and equitable interspecies economy. By recognizing the value of all living beings, Plantiverse has the potential to create a more sustainable and just future for all."]
+        },
+        {"tag": "involvement",
+         "patterns": ["How can visitors get involved with Plantiverse after the Mobile World Congress?"],
+         "responses": ["Visitors can continue to support Plantiverse by buying NFT art created by plants and by spreading awareness about the project. They can also follow our social media channels and sign up for our newsletter to stay updated on future developments and events."]
+        },
+        {"tag": "purpose",
+        "patterns": ["Can Plantiverse be used for any other purposes besides environmental conservation?"],
+        "responses": ["Yes, the technology behind Plantiverse can potentially be used for a variety of purposes, such as monitoring crop growth or creating unique pieces of NFT art for other purposes. The possibilities are endless and we are always exploring new ways to use the technology for the betterment of our planet and all its inhabitants."]
+       }
+   ]
+}

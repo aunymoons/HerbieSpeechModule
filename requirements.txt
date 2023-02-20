@@ -1,0 +1,3 @@
+tensorflow
+tflearn
+pyttsx3
