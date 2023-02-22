@@ -3,6 +3,7 @@ import keyboard
 
 isSpeaking = False
 ttsEngine = tts.init()
+ttsEngine.setProperty('rate', 100) #200 is the default rate, the higher the faster it goes, the lower the slower.
 
 while True:
     if keyboard.is_pressed("1"):
