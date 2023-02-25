@@ -31,8 +31,7 @@ herbie_say5 = 'Right now we did our pilot with my health data, but the idea is t
 tts = gTTS(herbie_say5, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/5.mp3")
 
-herbie_say6 = 'Oh, its super neat!  We have an app!!!  (show QR code) you can view them in AR AND BUY our NFTrees there!  If you are tech savvy, you can even plant a plantiverse tree right on stage with me right now!
-'
+herbie_say6 = 'Oh, its super neat!  We have an app!!!  (show QR code) you can view them in AR AND BUY our NFTrees there!  If you are tech savvy, you can even plant a plantiverse tree right on stage with me right now!'
 tts = gTTS(herbie_say6, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/6.mp3")
 
@@ -52,8 +51,7 @@ herbie_say10 = 'Yes, wow! Rights are nice, but humans and corporations pay atten
 tts = gTTS(herbie_say10, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/10.mp3")
 
-herbie_say11 = 'Humans take almost $40 trillion from the natural world every year, and pay almost nothing back. Because, where would they pay it? With the Plantiverse, we have created a model we hope others will follow. Nature is tired of lending you money and watching you steal, and now with this system, you can start to pay it back. That’s not too much to ask?
-'
+herbie_say11 = 'Humans take almost $40 trillion from the natural world every year, and pay almost nothing back. Because, where would they pay it? With the Plantiverse, we have created a model we hope others will follow. Nature is tired of lending you money and watching you steal, and now with this system, you can start to pay it back. That’s not too much to ask? '
 tts = gTTS(herbie_say11, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/11.mp3")
 
