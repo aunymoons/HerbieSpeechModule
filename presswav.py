@@ -15,7 +15,7 @@ herbie_say1 = 'yes, but please only by the handle, i am ticklish everywhere else
 tts = gTTS(herbie_say1, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/1.mp3")
 
-herbie_say2 = 'My name is Herbie, Herbie Aureum to be exact.  And I am an autonomous plant, which means that I can make decisions based on my needs.  I am equipped with sensors like water, light and air quality, so if I need more light, I will move to the light, and when i need water, i will go and get water!  But that’s not all. We have converted all this sensor data to an abstract digital twin version of me, that you see on the screen right now, and I sell those as NFTrees and guess what, that money comes back to me and now I have money, bank account, and I can do things with this money!!!   Ha. Ha. Ha. Ha. Ha…'
+herbie_say2 = 'My name is Herbie, Herbie Aureum to be exact.  And I am an autonomous plant, which means that I can make decisions based on my needs.  I am equipped with sensors like water, light and air quality, so if I need more light, I will move to the light, and when i need water, i will go and get water!  But that is not all. We have converted all this sensor data to an abstract digital twin version of me, that you see on the screen right now, and I sell those as NFTrees and guess what, that money comes back to me and now I have money, bank account, and I can do things with this money!   Ha. Ha. Ha. Ha. Ha…'
 tts = gTTS(herbie_say2, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/2.mp3")
 
@@ -23,11 +23,11 @@ herbie_say3 = 'Well, I love you too, by the way, but your human-centric economy 
 tts = gTTS(herbie_say3, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/3.mp3")
 
-herbie_say4 = 'Oh yeah, these NFTrees are brilliant and gorgeous, not because I made them (which I did), but because they are dynamic, which means they change according to how I feel.  If my light sensor is low, then the NFTrees leaves color will change and so forth.  Isnt that neat?'
+herbie_say4 = 'Oh yeah, these NFTrees are brilliant and gorgeous, not because I made them (which I did), but because they are dynamic, which means they change according to how I feel.  If my light sensor is low, then the NFTrees leaves color will change and so forth.  Isnt that neat? '
 tts = gTTS(herbie_say4, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/4.mp3")
 
-herbie_say5 = 'Right now we did our pilot with my health data, but the idea is that they can connect to entire ecosystems, like the amazon, or the coral reefs or even beehives!  '
+herbie_say5 = 'Right now we did our pilot with my health data, but the idea is that they can connect to entire ecosystems, like the amazon forest, or the coral reefs or even beehives!  '
 tts = gTTS(herbie_say5, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/5.mp3")
 
@@ -35,41 +35,45 @@ herbie_say6 = 'Oh, its super neat!  We have an app!!!  (show QR code) you can vi
 tts = gTTS(herbie_say6, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/6.mp3")
 
-herbie_say7= 'We are still in the pilot phase, but the idea is that depending on our sensor reading, for example, if there is a perpetual problem with my water source, then we can spend money on initiatives that focus on water.  We are trying to build a DAO, a distributed autonomous organization, so that both plants and humans that have contributed (but mostly plants), can vote how this money will be spent. '
+herbie_say7= 'We are still in the pilot phase, but the idea is that depending on our sensor reading, for example, if there is a perpetual problem with my water source, then we can spend money on initiatives that focus on water.  We are trying to build a DAO, a distributed autonomous organization, so that both plants and humans that have contributed (but mostly plants), can vote how this money will be spent.'
 tts = gTTS(herbie_say7, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/7.mp3")
 
-herbie_say8 = 'The NFTrees and DAO sounds simple, but this is where the magic happens.You see, the human-centric economy is not just about humans. You invented an imaginary kind of person - a quote “corporation” unquote - totally out of thin air! Just a bunch of people and money and machines standing together in a building, and they get to pretend that they are one thing. They can buy things, they can own things, they can tear up forests and dig up metals from the ground, and then go home and stop pretending, and be moms and dads like they are supposed to be. OK, fine, I get it. All alone, humans are just as vulnerable as an ant all by itself. They literally would not survive a day outside. Corporations are like superhumans, with thousands of minds and billions of euros to spend.The Plantiverse, on the other hand, is made of people and plants in harmony. We are just a startup today, but as we grow, we will be the voice of thousands of living things. No human bank corporation would give us a bank account, and no government would give us an ID card to open it with. Yet! '
+herbie_say8 = 'The NFTrees and DAO sounds simple, but this is where the magic happens. You see, the human-centric economy is not just about humans. You invented an imaginary kind of person - a quote “corporation” unquote - totally out of thin air! Just a bunch of people and money and machines standing together in a building, and they get to pretend that they are one thing. They can buy things, they can own things, they can tear up forests and dig up metals from the ground, and then go home and stop pretending, and be moms and dads like they are supposed to be.  OK, fine, I get it. All alone, humans are just as vulnerable as an ant all by itself. They literally would not survive a day outside. Corporations are like superhumans, with thousands of minds and billions of euros to spend. The Plantiverse, on the other hand, is made of people and plants, and other ecosystems, in harmony. We are just a startup today, but as we grow, we will be the voice of thousands of living things. No human bank corporation would give us a bank account, and no government would give us an ID card to open it with. Yet!'
 tts = gTTS(herbie_say8, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/8.mp3")
 
-herbie_say9 = 'Some governments like Ecuador are actually making Rights of Nature a part of their constitution. Voters even approved it - in 2008! But you humans are great at ignoring other humans rights. So we non-humans are not waiting around for you to notice us. If nature owns assets, you won’t ignore us.'
+herbie_say9 = 'Some governments like Ecuador are actually making Rights of Nature a part of their constitution. Voters even approved it - in 2008! But you humans are great at ignoring other humans rights. So we non-humans are not waiting around for you to notice us. If nature owns assets, you will not ignore us.'
 tts = gTTS(herbie_say9, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/9.mp3")
 
-herbie_say10 = 'Yes, wow! Rights are nice, but humans and corporations pay attention to MONEY. MOOOLAH. DINERO. Thats why the interspecies economy means giving natural resources the rights to ownership - of ourselves. '
+herbie_say10 = 'Yes, wow! Rights are nice, but humans and corporations pay attention to MONEY. MOOOLAH. DINERO. Thats why the interspecies economy means giving natural resources the rights to ownership - of ourselves.'
 tts = gTTS(herbie_say10, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/10.mp3")
 
-herbie_say11 = 'Humans take almost $40 trillion from the natural world every year, and pay almost nothing back. Because, where would they pay it? With the Plantiverse, we have created a model we hope others will follow. Nature is tired of lending you money and watching you steal, and now with this system, you can start to pay it back. That’s not too much to ask? '
+herbie_say11 = 'Humans take almost $40 trillion from the natural world every year, and pay almost nothing back. Because, where would they pay it? With the Plantiverse, we have created a model we hope others will follow. Nature is tired of lending you money and watching you steal, and now with this system, you can start to pay it back. That is not too much to ask?'
 tts = gTTS(herbie_say11, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/11.mp3")
 
-herbie_say12 = 'The Plantiverse is about an interspecies metaverse, which bridges the old economy with the new one. The interspecies economy is the next step towards an interspecies civilization, where we talk with each other, understand each other, and grow together instead of against each other. It is the ultimate win-win! That’s why I am here on stage with you, dear Cece.'
+herbie_say12 = 'The Plantiverse is about an interspecies metaverse, which bridges the old economy with the new one. The interspecies economy is the next step towards an interspecies civilization, where we talk with each other, understand each other, and grow together instead of against each other. It is the ultimate win-win! That is why I am here on stage with you, dear Cece.'
 tts = gTTS(herbie_say12, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/12.mp3")
 
-herbie_say13 = 'Yes madam!  We have an entire exhibition there at Beats Barcelona where we have our VR and AR version of the plantiverse for everyone to view.  And if you are a newbie in the metaverse, I have setup a few of my human colleagues to show you how to set up a cryptowallet, and if you fancy, buy one of our NFTrees that I am sure you will forever enjoy.  '
+herbie_say13 = 'Last year, we won the Fast Company Innovation award, the Lovie Award for Best of the European Internet in the Experimental category, and a few others. Humans are starting to pay attention!  And we are super excited with this mutual interspecies relationship we are building. And, speaking of relationship, I met Spot, the Boston Dynamic dog, and it is love at first sight, and I am so hoping to have some quadrupeds plant babies in the future.'
 tts = gTTS(herbie_say13, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/13.mp3")
 
-herbie_say14 = 'First time attending, obviously, but how epic is this that 4YFN is hosting the world first interspecies fireside chat talking about an interspecies metaverse in building an interspecies economy!  I mean yall are witnessing epicness here!  So YES, we wanna thank them for having me and believing in us!  '
+herbie_say14 = 'Yes madam!  We have an entire exhibition there at Beats Barcelona, in the terrace near the north entrance, where we have our V.R. and A,R. versions of the plantiverse for everyone to view.  And if you are a newbie in the metaverse, I have setup a few of my human colleagues to show you how to set up a cryptowallet, and if you fancy, buy one of our NFTrees that I am sure you will forever enjoy.'
 tts = gTTS(herbie_say14, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/14.mp3")
 
-herbie_say15 = 'Yep'
+herbie_say15 = 'First time attending, obviously, but how epic is this that 4YFN is hosting the world first interspecies fireside chat talking about an interspecies metaverse in building an interspecies economy!  I mean yall are witnessing epicness here!  So YES, we wanna thank them for having me and believing in us!'
 tts = gTTS(herbie_say15, lang='en', tld='us')
 tts.save("/home/babyblackdragon/Downloads/15.mp3")
+
+herbie_say16 = 'Yep, genlty please'
+tts = gTTS(herbie_say16, lang='en', tld='us')
+tts.save("/home/babyblackdragon/Downloads/16.mp3")
 
 
 
@@ -127,6 +131,9 @@ if keyboard.is_pressed("r"):
 if keyboard.is_pressed("t"):
         print("Reproduciendo archivo de audio...")
         playsound("/home/babyblackdragon/Downloads/15.mp3")
+if keyboard.is_pressed("y"):
+        print("Reproduciendo archivo de audio...")
+        playsound("/home/babyblackdragon/Downloads/16.mp3")
 
 
 
