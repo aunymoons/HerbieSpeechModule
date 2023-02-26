@@ -1,2 +1,2 @@
-#!/usr/env/bin bash
-python3 ./pressrelease.py
+#!/bin/sh
+sudo python pressrelease.py
